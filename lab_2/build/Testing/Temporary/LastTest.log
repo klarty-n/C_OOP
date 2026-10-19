@@ -1,0 +1,732 @@
+Start testing: Oct 15 13:57 RTZ 2 (зима)
+----------------------------------------------------------
+1/27 Testing: PolynomialConstruction.DefaultIsZero
+1/27 Test: PolynomialConstruction.DefaultIsZero
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialConstruction.DefaultIsZero" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialConstruction.DefaultIsZero" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialConstruction.DefaultIsZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialConstruction
+[ RUN      ] PolynomialConstruction.DefaultIsZero
+[       OK ] PolynomialConstruction.DefaultIsZero (0 ms)
+[----------] 1 test from PolynomialConstruction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialConstruction.DefaultIsZero" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialConstruction.DefaultIsZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/27 Testing: PolynomialConstruction.CopiesInputCoefficients
+2/27 Test: PolynomialConstruction.CopiesInputCoefficients
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialConstruction.CopiesInputCoefficients" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialConstruction.CopiesInputCoefficients" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialConstruction.CopiesInputCoefficients
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialConstruction
+[ RUN      ] PolynomialConstruction.CopiesInputCoefficients
+[       OK ] PolynomialConstruction.CopiesInputCoefficients (0 ms)
+[----------] 1 test from PolynomialConstruction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialConstruction.CopiesInputCoefficients" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialConstruction.CopiesInputCoefficients" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/27 Testing: PolynomialConstruction.TrimsTrailingZeros
+3/27 Test: PolynomialConstruction.TrimsTrailingZeros
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialConstruction.TrimsTrailingZeros" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialConstruction.TrimsTrailingZeros" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialConstruction.TrimsTrailingZeros
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialConstruction
+[ RUN      ] PolynomialConstruction.TrimsTrailingZeros
+[       OK ] PolynomialConstruction.TrimsTrailingZeros (1 ms)
+[----------] 1 test from PolynomialConstruction (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialConstruction.TrimsTrailingZeros" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialConstruction.TrimsTrailingZeros" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/27 Testing: PolynomialConstruction.AllZeroCoefficientsMakeZero
+4/27 Test: PolynomialConstruction.AllZeroCoefficientsMakeZero
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialConstruction.AllZeroCoefficientsMakeZero" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialConstruction.AllZeroCoefficientsMakeZero" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialConstruction.AllZeroCoefficientsMakeZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialConstruction
+[ RUN      ] PolynomialConstruction.AllZeroCoefficientsMakeZero
+[       OK ] PolynomialConstruction.AllZeroCoefficientsMakeZero (1 ms)
+[----------] 1 test from PolynomialConstruction (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialConstruction.AllZeroCoefficientsMakeZero" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialConstruction.AllZeroCoefficientsMakeZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/27 Testing: PolynomialConstruction.RejectsDegreeBelowMinusOne
+5/27 Test: PolynomialConstruction.RejectsDegreeBelowMinusOne
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialConstruction.RejectsDegreeBelowMinusOne" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialConstruction.RejectsDegreeBelowMinusOne" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialConstruction.RejectsDegreeBelowMinusOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialConstruction
+[ RUN      ] PolynomialConstruction.RejectsDegreeBelowMinusOne
+[       OK ] PolynomialConstruction.RejectsDegreeBelowMinusOne (2 ms)
+[----------] 1 test from PolynomialConstruction (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialConstruction.RejectsDegreeBelowMinusOne" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialConstruction.RejectsDegreeBelowMinusOne" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/27 Testing: PolynomialConstruction.RejectsNullCoefficientsForNonzeroDegree
+6/27 Test: PolynomialConstruction.RejectsNullCoefficientsForNonzeroDegree
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialConstruction.RejectsNullCoefficientsForNonzeroDegree" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialConstruction.RejectsNullCoefficientsForNonzeroDegree" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialConstruction.RejectsNullCoefficientsForNonzeroDegree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialConstruction
+[ RUN      ] PolynomialConstruction.RejectsNullCoefficientsForNonzeroDegree
+[       OK ] PolynomialConstruction.RejectsNullCoefficientsForNonzeroDegree (0 ms)
+[----------] 1 test from PolynomialConstruction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialConstruction.RejectsNullCoefficientsForNonzeroDegree" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialConstruction.RejectsNullCoefficientsForNonzeroDegree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/27 Testing: PolynomialConstruction.AllowsNullCoefficientsForZeroPolynomial
+7/27 Test: PolynomialConstruction.AllowsNullCoefficientsForZeroPolynomial
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialConstruction.AllowsNullCoefficientsForZeroPolynomial" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialConstruction.AllowsNullCoefficientsForZeroPolynomial" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialConstruction.AllowsNullCoefficientsForZeroPolynomial
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialConstruction
+[ RUN      ] PolynomialConstruction.AllowsNullCoefficientsForZeroPolynomial
+[       OK ] PolynomialConstruction.AllowsNullCoefficientsForZeroPolynomial (0 ms)
+[----------] 1 test from PolynomialConstruction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialConstruction.AllowsNullCoefficientsForZeroPolynomial" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialConstruction.AllowsNullCoefficientsForZeroPolynomial" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/27 Testing: PolynomialConstruction.OneCoefficientMakesConstantPolynomial
+8/27 Test: PolynomialConstruction.OneCoefficientMakesConstantPolynomial
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialConstruction.OneCoefficientMakesConstantPolynomial" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialConstruction.OneCoefficientMakesConstantPolynomial" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialConstruction.OneCoefficientMakesConstantPolynomial
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialConstruction
+[ RUN      ] PolynomialConstruction.OneCoefficientMakesConstantPolynomial
+[       OK ] PolynomialConstruction.OneCoefficientMakesConstantPolynomial (0 ms)
+[----------] 1 test from PolynomialConstruction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialConstruction.OneCoefficientMakesConstantPolynomial" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialConstruction.OneCoefficientMakesConstantPolynomial" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/27 Testing: PolynomialConstruction.TreatsTinyConstantAsZero
+9/27 Test: PolynomialConstruction.TreatsTinyConstantAsZero
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialConstruction.TreatsTinyConstantAsZero" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialConstruction.TreatsTinyConstantAsZero" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialConstruction.TreatsTinyConstantAsZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialConstruction
+[ RUN      ] PolynomialConstruction.TreatsTinyConstantAsZero
+[       OK ] PolynomialConstruction.TreatsTinyConstantAsZero (0 ms)
+[----------] 1 test from PolynomialConstruction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialConstruction.TreatsTinyConstantAsZero" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialConstruction.TreatsTinyConstantAsZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/27 Testing: PolynomialConstruction.PreservesCoefficientAboveTolerance
+10/27 Test: PolynomialConstruction.PreservesCoefficientAboveTolerance
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialConstruction.PreservesCoefficientAboveTolerance" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialConstruction.PreservesCoefficientAboveTolerance" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialConstruction.PreservesCoefficientAboveTolerance
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialConstruction
+[ RUN      ] PolynomialConstruction.PreservesCoefficientAboveTolerance
+[       OK ] PolynomialConstruction.PreservesCoefficientAboveTolerance (0 ms)
+[----------] 1 test from PolynomialConstruction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialConstruction.PreservesCoefficientAboveTolerance" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialConstruction.PreservesCoefficientAboveTolerance" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/27 Testing: PolynomialCopyMove.CopyConstructorIsIndependent
+11/27 Test: PolynomialCopyMove.CopyConstructorIsIndependent
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialCopyMove.CopyConstructorIsIndependent" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialCopyMove.CopyConstructorIsIndependent" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialCopyMove.CopyConstructorIsIndependent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialCopyMove
+[ RUN      ] PolynomialCopyMove.CopyConstructorIsIndependent
+[       OK ] PolynomialCopyMove.CopyConstructorIsIndependent (0 ms)
+[----------] 1 test from PolynomialCopyMove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialCopyMove.CopyConstructorIsIndependent" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialCopyMove.CopyConstructorIsIndependent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/27 Testing: PolynomialCopyMove.CopiesZeroPolynomial
+12/27 Test: PolynomialCopyMove.CopiesZeroPolynomial
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialCopyMove.CopiesZeroPolynomial" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialCopyMove.CopiesZeroPolynomial" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialCopyMove.CopiesZeroPolynomial
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialCopyMove
+[ RUN      ] PolynomialCopyMove.CopiesZeroPolynomial
+[       OK ] PolynomialCopyMove.CopiesZeroPolynomial (0 ms)
+[----------] 1 test from PolynomialCopyMove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialCopyMove.CopiesZeroPolynomial" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialCopyMove.CopiesZeroPolynomial" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/27 Testing: PolynomialCopyMove.MoveConstructorEmptiesSource
+13/27 Test: PolynomialCopyMove.MoveConstructorEmptiesSource
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialCopyMove.MoveConstructorEmptiesSource" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialCopyMove.MoveConstructorEmptiesSource" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialCopyMove.MoveConstructorEmptiesSource
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialCopyMove
+[ RUN      ] PolynomialCopyMove.MoveConstructorEmptiesSource
+[       OK ] PolynomialCopyMove.MoveConstructorEmptiesSource (0 ms)
+[----------] 1 test from PolynomialCopyMove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialCopyMove.MoveConstructorEmptiesSource" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialCopyMove.MoveConstructorEmptiesSource" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/27 Testing: PolynomialCopyMove.CopyAssignmentIsIndependent
+14/27 Test: PolynomialCopyMove.CopyAssignmentIsIndependent
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialCopyMove.CopyAssignmentIsIndependent" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialCopyMove.CopyAssignmentIsIndependent" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialCopyMove.CopyAssignmentIsIndependent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialCopyMove
+[ RUN      ] PolynomialCopyMove.CopyAssignmentIsIndependent
+[       OK ] PolynomialCopyMove.CopyAssignmentIsIndependent (0 ms)
+[----------] 1 test from PolynomialCopyMove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialCopyMove.CopyAssignmentIsIndependent" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialCopyMove.CopyAssignmentIsIndependent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/27 Testing: PolynomialCopyMove.MoveAssignmentEmptiesSource
+15/27 Test: PolynomialCopyMove.MoveAssignmentEmptiesSource
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialCopyMove.MoveAssignmentEmptiesSource" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialCopyMove.MoveAssignmentEmptiesSource" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialCopyMove.MoveAssignmentEmptiesSource
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialCopyMove
+[ RUN      ] PolynomialCopyMove.MoveAssignmentEmptiesSource
+[       OK ] PolynomialCopyMove.MoveAssignmentEmptiesSource (0 ms)
+[----------] 1 test from PolynomialCopyMove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialCopyMove.MoveAssignmentEmptiesSource" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialCopyMove.MoveAssignmentEmptiesSource" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/27 Testing: PolynomialCopyMove.SelfAssignmentKeepsValue
+16/27 Test: PolynomialCopyMove.SelfAssignmentKeepsValue
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialCopyMove.SelfAssignmentKeepsValue" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialCopyMove.SelfAssignmentKeepsValue" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialCopyMove.SelfAssignmentKeepsValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialCopyMove
+[ RUN      ] PolynomialCopyMove.SelfAssignmentKeepsValue
+[       OK ] PolynomialCopyMove.SelfAssignmentKeepsValue (0 ms)
+[----------] 1 test from PolynomialCopyMove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialCopyMove.SelfAssignmentKeepsValue" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialCopyMove.SelfAssignmentKeepsValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/27 Testing: PolynomialAddition.AddsDifferentDegrees
+17/27 Test: PolynomialAddition.AddsDifferentDegrees
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialAddition.AddsDifferentDegrees" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialAddition.AddsDifferentDegrees" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialAddition.AddsDifferentDegrees
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialAddition
+[ RUN      ] PolynomialAddition.AddsDifferentDegrees
+[       OK ] PolynomialAddition.AddsDifferentDegrees (0 ms)
+[----------] 1 test from PolynomialAddition (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialAddition.AddsDifferentDegrees" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialAddition.AddsDifferentDegrees" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/27 Testing: PolynomialAddition.AddingZeroKeepsValue
+18/27 Test: PolynomialAddition.AddingZeroKeepsValue
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialAddition.AddingZeroKeepsValue" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialAddition.AddingZeroKeepsValue" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialAddition.AddingZeroKeepsValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialAddition
+[ RUN      ] PolynomialAddition.AddingZeroKeepsValue
+[       OK ] PolynomialAddition.AddingZeroKeepsValue (0 ms)
+[----------] 1 test from PolynomialAddition (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialAddition.AddingZeroKeepsValue" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialAddition.AddingZeroKeepsValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/27 Testing: PolynomialAddition.OppositesProduceZero
+19/27 Test: PolynomialAddition.OppositesProduceZero
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialAddition.OppositesProduceZero" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialAddition.OppositesProduceZero" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialAddition.OppositesProduceZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialAddition
+[ RUN      ] PolynomialAddition.OppositesProduceZero
+[       OK ] PolynomialAddition.OppositesProduceZero (0 ms)
+[----------] 1 test from PolynomialAddition (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialAddition.OppositesProduceZero" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialAddition.OppositesProduceZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/27 Testing: PolynomialAddition.TrimsFloatingPointResidual
+20/27 Test: PolynomialAddition.TrimsFloatingPointResidual
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialAddition.TrimsFloatingPointResidual" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialAddition.TrimsFloatingPointResidual" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialAddition.TrimsFloatingPointResidual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialAddition
+[ RUN      ] PolynomialAddition.TrimsFloatingPointResidual
+[       OK ] PolynomialAddition.TrimsFloatingPointResidual (0 ms)
+[----------] 1 test from PolynomialAddition (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialAddition.TrimsFloatingPointResidual" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialAddition.TrimsFloatingPointResidual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/27 Testing: PolynomialMultiplication.MultipliesDifferentDegrees
+21/27 Test: PolynomialMultiplication.MultipliesDifferentDegrees
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialMultiplication.MultipliesDifferentDegrees" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialMultiplication.MultipliesDifferentDegrees" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialMultiplication.MultipliesDifferentDegrees
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialMultiplication
+[ RUN      ] PolynomialMultiplication.MultipliesDifferentDegrees
+[       OK ] PolynomialMultiplication.MultipliesDifferentDegrees (1 ms)
+[----------] 1 test from PolynomialMultiplication (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialMultiplication.MultipliesDifferentDegrees" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialMultiplication.MultipliesDifferentDegrees" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/27 Testing: PolynomialMultiplication.MultiplicationByZeroProducesZero
+22/27 Test: PolynomialMultiplication.MultiplicationByZeroProducesZero
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialMultiplication.MultiplicationByZeroProducesZero" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialMultiplication.MultiplicationByZeroProducesZero" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialMultiplication.MultiplicationByZeroProducesZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialMultiplication
+[ RUN      ] PolynomialMultiplication.MultiplicationByZeroProducesZero
+[       OK ] PolynomialMultiplication.MultiplicationByZeroProducesZero (0 ms)
+[----------] 1 test from PolynomialMultiplication (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialMultiplication.MultiplicationByZeroProducesZero" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialMultiplication.MultiplicationByZeroProducesZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/27 Testing: PolynomialMultiplication.CanMultiplyByItself
+23/27 Test: PolynomialMultiplication.CanMultiplyByItself
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialMultiplication.CanMultiplyByItself" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialMultiplication.CanMultiplyByItself" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialMultiplication.CanMultiplyByItself
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialMultiplication
+[ RUN      ] PolynomialMultiplication.CanMultiplyByItself
+[       OK ] PolynomialMultiplication.CanMultiplyByItself (1 ms)
+[----------] 1 test from PolynomialMultiplication (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialMultiplication.CanMultiplyByItself" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialMultiplication.CanMultiplyByItself" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/27 Testing: PolynomialEvaluation.HornerWorksAtNegativeArgument
+24/27 Test: PolynomialEvaluation.HornerWorksAtNegativeArgument
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialEvaluation.HornerWorksAtNegativeArgument" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialEvaluation.HornerWorksAtNegativeArgument" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialEvaluation.HornerWorksAtNegativeArgument
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialEvaluation
+[ RUN      ] PolynomialEvaluation.HornerWorksAtNegativeArgument
+[       OK ] PolynomialEvaluation.HornerWorksAtNegativeArgument (0 ms)
+[----------] 1 test from PolynomialEvaluation (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialEvaluation.HornerWorksAtNegativeArgument" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialEvaluation.HornerWorksAtNegativeArgument" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/27 Testing: PolynomialVariant13.SumsAllCoefficients
+25/27 Test: PolynomialVariant13.SumsAllCoefficients
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialVariant13.SumsAllCoefficients" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialVariant13.SumsAllCoefficients" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialVariant13.SumsAllCoefficients
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialVariant13
+[ RUN      ] PolynomialVariant13.SumsAllCoefficients
+[       OK ] PolynomialVariant13.SumsAllCoefficients (0 ms)
+[----------] 1 test from PolynomialVariant13 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialVariant13.SumsAllCoefficients" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialVariant13.SumsAllCoefficients" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/27 Testing: PolynomialVariant13.SumIncludesNegativeCoefficients
+26/27 Test: PolynomialVariant13.SumIncludesNegativeCoefficients
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialVariant13.SumIncludesNegativeCoefficients" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialVariant13.SumIncludesNegativeCoefficients" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialVariant13.SumIncludesNegativeCoefficients
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialVariant13
+[ RUN      ] PolynomialVariant13.SumIncludesNegativeCoefficients
+[       OK ] PolynomialVariant13.SumIncludesNegativeCoefficients (0 ms)
+[----------] 1 test from PolynomialVariant13 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialVariant13.SumIncludesNegativeCoefficients" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialVariant13.SumIncludesNegativeCoefficients" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/27 Testing: PolynomialPrinting.FormatsSignsAndPowers
+27/27 Test: PolynomialPrinting.FormatsSignsAndPowers
+Command: "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests.exe" "--gtest_filter=PolynomialPrinting.FormatsSignsAndPowers" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/MSI/Study_1st_course/OOP/lab_2/build
+"PolynomialPrinting.FormatsSignsAndPowers" start time: Oct 15 13:57 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\MSI\Study_1st_course\OOP\lab_2\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = PolynomialPrinting.FormatsSignsAndPowers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolynomialPrinting
+[ RUN      ] PolynomialPrinting.FormatsSignsAndPowers
+[       OK ] PolynomialPrinting.FormatsSignsAndPowers (1 ms)
+[----------] 1 test from PolynomialPrinting (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PolynomialPrinting.FormatsSignsAndPowers" end time: Oct 15 13:57 RTZ 2 (зима)
+"PolynomialPrinting.FormatsSignsAndPowers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 15 13:57 RTZ 2 (зима)

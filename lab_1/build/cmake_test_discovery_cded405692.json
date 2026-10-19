@@ -1,0 +1,104 @@
+{
+  "tests": 16,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "StrOps",
+      "tests": 5,
+      "testsuite": [
+        {
+          "name": "AllocCopiesTextIntoNewMemory",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 6
+        },
+        {
+          "name": "AllocHandlesEmptyAndNullStrings",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 19
+        },
+        {
+          "name": "LengthStopsAtTerminator",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 28
+        },
+        {
+          "name": "CopyIncludesTerminator",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 35
+        },
+        {
+          "name": "DeleteAcceptsNullPointer",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 43
+        }
+      ]
+    },
+    {
+      "name": "CountWords",
+      "tests": 5,
+      "testsuite": [
+        {
+          "name": "CountsWordsFromAssignmentExample",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 49
+        },
+        {
+          "name": "EmptyAndNullInputsHaveNoWords",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 53
+        },
+        {
+          "name": "WhitespaceOnlyHasNoWords",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 58
+        },
+        {
+          "name": "RepeatedSeparatorsDoNotCreateWords",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 62
+        },
+        {
+          "name": "RecognizesTabsAndNewlinesAsSeparators",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 66
+        }
+      ]
+    },
+    {
+      "name": "FindSubstring",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "FindsAssignmentExampleAndWritesPosition",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 70
+        },
+        {
+          "name": "ReturnsFirstMatchWhenThereAreSeveral",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 76
+        },
+        {
+          "name": "FindsMatchAtBeginningAndAtEnd",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 82
+        },
+        {
+          "name": "MissingMatchResetsOutputPosition",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 90
+        },
+        {
+          "name": "NeedleLongerThanTextIsNotFound",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 96
+        },
+        {
+          "name": "EmptyAndNullInputsAreNotFound",
+          "file": "C:\\Users\\MSI\\OOP\\lab_1\\tests\\test_variant.cpp",
+          "line": 102
+        }
+      ]
+    }
+  ]
+}

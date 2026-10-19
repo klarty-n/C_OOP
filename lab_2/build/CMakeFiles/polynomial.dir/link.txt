@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libpolynomial.a CMakeFiles/polynomial.dir/src/polynomial.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libpolynomial.a

@@ -1,0 +1,183 @@
+{
+  "tests": 27,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "PolynomialConstruction",
+      "tests": 10,
+      "testsuite": [
+        {
+          "name": "DefaultIsZero",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 9
+        },
+        {
+          "name": "CopiesInputCoefficients",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 15
+        },
+        {
+          "name": "TrimsTrailingZeros",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 22
+        },
+        {
+          "name": "AllZeroCoefficientsMakeZero",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 30
+        },
+        {
+          "name": "RejectsDegreeBelowMinusOne",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 39
+        },
+        {
+          "name": "RejectsNullCoefficientsForNonzeroDegree",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 43
+        },
+        {
+          "name": "AllowsNullCoefficientsForZeroPolynomial",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 47
+        },
+        {
+          "name": "OneCoefficientMakesConstantPolynomial",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 52
+        },
+        {
+          "name": "TreatsTinyConstantAsZero",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 59
+        },
+        {
+          "name": "PreservesCoefficientAboveTolerance",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 65
+        }
+      ]
+    },
+    {
+      "name": "PolynomialCopyMove",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "CopyConstructorIsIndependent",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 71
+        },
+        {
+          "name": "CopiesZeroPolynomial",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 80
+        },
+        {
+          "name": "MoveConstructorEmptiesSource",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 86
+        },
+        {
+          "name": "CopyAssignmentIsIndependent",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 94
+        },
+        {
+          "name": "MoveAssignmentEmptiesSource",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 105
+        },
+        {
+          "name": "SelfAssignmentKeepsValue",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 115
+        }
+      ]
+    },
+    {
+      "name": "PolynomialAddition",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "AddsDifferentDegrees",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 122
+        },
+        {
+          "name": "AddingZeroKeepsValue",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 132
+        },
+        {
+          "name": "OppositesProduceZero",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 142
+        },
+        {
+          "name": "TrimsFloatingPointResidual",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 154
+        }
+      ]
+    },
+    {
+      "name": "PolynomialMultiplication",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "MultipliesDifferentDegrees",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 166
+        },
+        {
+          "name": "MultiplicationByZeroProducesZero",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 179
+        },
+        {
+          "name": "CanMultiplyByItself",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 188
+        }
+      ]
+    },
+    {
+      "name": "PolynomialEvaluation",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "HornerWorksAtNegativeArgument",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 197
+        }
+      ]
+    },
+    {
+      "name": "PolynomialVariant13",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "SumsAllCoefficients",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 203
+        },
+        {
+          "name": "SumIncludesNegativeCoefficients",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 210
+        }
+      ]
+    },
+    {
+      "name": "PolynomialPrinting",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "FormatsSignsAndPowers",
+          "file": "C:\\Users\\MSI\\Study_1st_course\\OOP\\lab_2\\tests\\test_polynomial.cpp",
+          "line": 216
+        }
+      ]
+    }
+  ]
+}
