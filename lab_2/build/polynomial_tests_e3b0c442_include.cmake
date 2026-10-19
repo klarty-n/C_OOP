@@ -1,5 +1,0 @@
-if(EXISTS "C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests_e3b0c442_tests.cmake")
-  include("C:/Users/MSI/Study_1st_course/OOP/lab_2/build/polynomial_tests_e3b0c442_tests.cmake")
-else()
-  add_test(polynomial_tests_NOT_BUILT polynomial_tests_NOT_BUILT)
-endif()

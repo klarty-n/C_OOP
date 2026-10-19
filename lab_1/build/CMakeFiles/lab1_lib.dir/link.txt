@@ -1,2 +1,0 @@
-C:\msys64\ucrt64\bin\ar.exe qc liblab1_lib.a CMakeFiles/lab1_lib.dir/src/str_ops.cpp.obj CMakeFiles/lab1_lib.dir/src/var_10.cpp.obj CMakeFiles/lab1_lib.dir/src/buff.cpp.obj
-C:\msys64\ucrt64\bin\ranlib.exe liblab1_lib.a
